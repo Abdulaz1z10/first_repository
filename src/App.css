@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.App{
+  background-image: url("./Components/image/Rectangle\ 31.jpg")
+}
 
 .App-logo {
   height: 40vmin;

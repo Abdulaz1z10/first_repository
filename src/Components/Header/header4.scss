@@ -1,0 +1,118 @@
+.body5{
+    height: 900px;
+    padding-left: 50px;
+    .blog{
+        color: #000;
+text-align: center;
+font-family: Gelasio;
+font-size: 43px;
+font-style: normal;
+font-weight: 500;
+line-height: 140%; /* 60.2px */
+    }
+    .welcome{
+        width: 581px;
+        color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+padding-left: 430px;
+}
+.four_body{
+    gap: 20px;
+    display: flex;
+    padding-top: 20px;
+    padding-left: 200px;
+    .big_div{
+        width: 500px;
+height: 600px;
+        .colo3{
+            width: 500px;
+height: 350px;
+flex-shrink: 0;
+border-radius: 10px;
+            background-color: yellowgreen;
+        }
+        .banf{
+            width: 271px;
+height: 32px;
+flex-shrink: 0;
+color: #000;
+font-family: Gelasio;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 160%; /* 32px */
+        }
+        .mini_banf{
+            width: 470px;
+height: 120px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+        }
+        .adison{
+            width: 192px;
+height: 30px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 30px */
+        }
+    }
+    .mini_four_body{
+         .hiroshima{
+            gap: 30px;
+            display: flex;
+        .color4{
+            width: 263px;
+height: 180px;
+flex-shrink: 0;
+background-color: yellowgreen;
+border-radius: 10px;
+        }
+        .texts{
+            .hiroshima_text{
+                width: 226px;
+                color: #000;
+font-family: Gelasio;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 30px */
+            }
+            .hiroshima_mini{
+                width: 243px;
+height: 60px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+            }
+            .shova{
+                width: 126.857px;
+                color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 30px */
+            }
+        }
+    }
+    }
+}
+}

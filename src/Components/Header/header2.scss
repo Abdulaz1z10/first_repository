@@ -1,0 +1,65 @@
+.body3{
+    height: 800px;
+    background-color: aqua;
+     padding-top: 50px;
+    width: 86.8%;
+flex-shrink: 0;
+    padding-left: 200px;
+.popular{
+    color: #000;
+font-family: Gelasio;
+font-size: 43px;
+font-style: normal;
+font-weight: 500;
+line-height: 140%; /* 60.2px */
+text-align: center;
+padding-right: 170px;
+}
+.for{
+    width: 735px;
+    color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+padding-left: 200px;
+}
+.three_body{
+    margin-left: 50px;
+    display: flex;
+    gap: 40px;
+    .mini_body{
+        width: 320px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    .color1{
+        border-radius: 10px;
+        height: 280px;
+        background-color: brown;
+    }
+    .state{
+        color: #000;
+    text-align: center;
+    font-family: Gelasio;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 36px */
+    text-align: center;
+    }
+    .information{
+        color: #000;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%; /* 28.8px */
+    }
+    }
+}
+}
